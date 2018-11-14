@@ -1,3 +1,11 @@
+# Related File
+* model.py
+* dqn_agent.py
+* Navigation.ipynb : Homework Solution, Completed.
+* Navigation_visual.ipynb : Additional Homwork Solution (Using CNN), Not completed.
+
+# Results of Homework Solution
+
 ### Before you read
 
 I applied thee improvement algorithm(`Double DQN`,`Prioritized Experience Replay`,`Dueling DQN`). 
